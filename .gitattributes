@@ -1,6 +1,4 @@
 ﻿* text=auto
-
-# Force LF pour les fichiers de code (le dépôt restera en LF)
 *.sh   text eol=lf
 *.py   text eol=lf
 *.js   text eol=lf

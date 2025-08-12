@@ -1,0 +1,22 @@
+@"
+# Python env
+env/
+.venv/
+venv/
+
+# Node
+node_modules/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Logs / temporaires
+*.log
+*.tmp
+*.temp
+
+# Système
+.DS_Store
+Thumbs.db
+"@ | Out-File -Encoding utf8 .gitignore

@@ -1,0 +1,10 @@
+fastapi==0.116.1
+uvicorn==0.18.3
+sqlalchemy==2.0.42
+psycopg2-binary==2.9.10    
+passlib[bcrypt]==1.7.4
+fastapi-jwt-auth==0.5.0
+pydantic[email]==1.10.4
+python-dotenv==0.21.0
+gunicorn
+

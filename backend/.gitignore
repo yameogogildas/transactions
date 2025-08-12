@@ -1,0 +1,25 @@
+venv/
+__pycache__/
+*.pyc
+.env
+# Ignorer l'environnement Python
+env/
+.venv/
+venv/
+
+# Ignorer les fichiers Node.js
+node_modules/
+
+# Ignorer les fichiers compilés Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ignorer les fichiers temporaires
+*.log
+*.tmp
+*.temp
+
+# Ignorer les fichiers système
+.DS_Store
+Thumbs.db

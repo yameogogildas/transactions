@@ -1,0 +1,13 @@
+{
+  "connectionString": "postgresql://pgadmin:Astride_01@pg-transactions-2095.postgres.database.azure.com/transactions?sslmode=require",
+  "databaseName": "transactions",
+  "firewallName": "AllowAllAzureServicesAndResourcesWithinAzureIps_2025-8-10_14-15-51",
+  "host": "pg-transactions-2095.postgres.database.azure.com",
+  "id": "/subscriptions/90305c46-09a6-491c-8e21-89f716fd5690/resourceGroups/rg-transactions/providers/Microsoft.DBforPostgreSQL/flexibleServers/pg-transactions-2095",
+  "location": "Canada Central",
+  "password": "Astride_01",
+  "resourceGroup": "rg-transactions",
+  "skuname": "Standard_B1ms",
+  "username": "pgadmin",
+  "version": "16"
+}
